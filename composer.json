@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/card-print",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bpeg",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "tecnickcom/tcpdf": "^6.4.4",
+    "ext-imagick": "*"
+  }
+}
